@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akiranadhira
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Software Development & Management
 - 🌱 I’m currently learning Java & Python
 - 📫 How to reach me at linkedin url: https://www.linkedin.com/in/akira-nadhira-07124b17b/
 
